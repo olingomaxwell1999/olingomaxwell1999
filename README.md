@@ -49,8 +49,8 @@
 ### 🏆 Projects & Portfolio
 
 - 👨‍💻 View my web and mobile development projects at [github.com/olingomaxwell1999](https://github.com/olingomaxwell1999)
-- 💼 Portfolio website featuring my best work: [Coming Soon]
-- 📚 Technical articles and tutorials: [Coming Soon]
+- 💼 Portfolio website featuring my best work: [Maxyneer](https://maxyneer.vercel.app)
+- 📚 Technical articles and tutorials: [Maxyneer Blogs](https://maxyneer.vercel.app/blogs)
 
 ### 📫 Let's Connect!
 
@@ -58,7 +58,7 @@
   <a href="https://twitter.com/olingo_maxwell" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Olingo Maxwell on Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/olingo-maxwell-web-developer" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Olingo Maxwell on LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/maxwell.olingo.3/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Olingo Maxwell on Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/maxwellolingo/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Olingo Maxwell on Instagram" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/olingomaxwell/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Olingo Maxwell on Instagram" height="30" width="40" /></a>
 </p>
 
 <p align="center">
