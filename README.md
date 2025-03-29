@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Olingo Maxwell</h1>
-<h3 align="center">Full-Stack Developer Specializing in Web & Mobile Applications | Nairobi, Kenya 🇰🇪</h3>
+<h3 align="center">Full-Stack Developer Specializing in Web & Mobile Applications | Mombasa, Kenya 🇰🇪</h3>
 
 <!-- SEO-friendly keywords and profile badges -->
 <p align="center">
