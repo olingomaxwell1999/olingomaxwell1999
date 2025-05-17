@@ -56,9 +56,9 @@
 
 <p align="center">
   <a href="https://twitter.com/olingo_maxwell" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Olingo Maxwell on Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/olingo-maxwell-web-developer" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Olingo Maxwell on LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/olingo_maxwell" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Olingo Maxwell on LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/maxwell.olingo.3/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Olingo Maxwell on Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/olingomaxwell/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Olingo Maxwell on Instagram" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/olingo_maxwell/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Olingo Maxwell on Instagram" height="30" width="40" /></a>
 </p>
 
 <p align="center">
@@ -97,5 +97,5 @@
 <!-- SEO Keywords -->
 <p align="center" style="font-size: 0.8em; color: #666;">
   Keywords: Full-Stack Developer, Web Development, Mobile Development, React, React Native, Next.js, shadcn/ui, 
-  Framer Motion, JavaScript, TypeScript, Node.js, Supabase, Firebase, Sanity, MongoDB, Nairobi Developer
+  Framer Motion, JavaScript, TypeScript, Node.js, Supabase, Firebase, Sanity, MongoDB, Nairobi Developer, Momnasa Developer
 </p>
