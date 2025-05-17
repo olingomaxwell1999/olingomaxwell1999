@@ -97,5 +97,5 @@
 <!-- SEO Keywords -->
 <p align="center" style="font-size: 0.8em; color: #666;">
   Keywords: Full-Stack Developer, Web Development, Mobile Development, React, React Native, Next.js, shadcn/ui, 
-  Framer Motion, JavaScript, TypeScript, Node.js, Supabase, Firebase, Sanity, MongoDB, Nairobi Developer, Momnasa Developer
+  Framer Motion, JavaScript, TypeScript, Node.js, Supabase, Firebase, Sanity, MongoDB, Nairobi Developer, Mombasa Developer
 </p>
